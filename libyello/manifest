@@ -1,6 +1,6 @@
 : 1
 name: libyello
-version: 0.1.2-a.0.z
+version: 0.1.2
 language: c++
 project: world
 summary: yello C++ library
